@@ -1,0 +1,11 @@
+{
+    "name": "Wingsoftheblackbird.Base.Tests",
+    "references": [
+        "Wingsoftheblackbird.Base"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
