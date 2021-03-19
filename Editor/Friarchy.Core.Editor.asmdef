@@ -1,0 +1,10 @@
+{
+    "name": "Friarchy.Core.Editor",
+    "references": [
+      "Friarchy.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

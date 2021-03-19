@@ -1,0 +1,11 @@
+{
+    "name": "Friarchy.Core.Tests",
+    "references": [
+        "Friarchy.Core"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

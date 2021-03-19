@@ -1,0 +1,14 @@
+{
+    "name": "Friarchy.Core.Editor.Tests",
+    "references": [
+        "Friarchy.Core.Editor",
+        "Friarchy.Core"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
